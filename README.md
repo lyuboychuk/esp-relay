@@ -1,1 +1,1 @@
-# Homework 2.2 Reley reader
+# Homework 2.2 Reley delay reader
